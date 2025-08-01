@@ -16,7 +16,7 @@ You can install the plugin directly from the **XrmToolBox Plugin Store** or refe
 ## 🔗 Project Links
 
 - XrmToolBox: [XrmToolBox](https://www.xrmtoolbox.com)
-- NuGet Package: [NuGet](https://www.nuget.org/packages/Gugi.PP.XrmToolbox.Plugins.BulkUpdateTrigger)
+- NuGet Package: [Gugi.PP.XrmToolbox.Plugins.BulkUpdateTrigger](https://www.nuget.org/packages/Gugi.PP.XrmToolbox.Plugins.BulkUpdateTrigger)
 
 
 ---
