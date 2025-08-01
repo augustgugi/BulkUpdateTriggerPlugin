@@ -10,7 +10,7 @@ This tool is useful when you need to:
 
 ## 📦 Plugin Distribution
 
-You can install the plugin directly from the **XrmToolBox Plugin Store** or reference it via [NuGet]([Gugi.PP.XrmToolbox.Plugins.BulkUpdateTrigger](https://www.nuget.org/packages/Gugi.PP.XrmToolbox.Plugins.BulkUpdateTrigger).
+You can install the plugin directly from the **XrmToolBox Plugin Store** or reference it via [NuGet](https://www.nuget.org/packages/Gugi.PP.XrmToolbox.Plugins.BulkUpdateTrigger).
 
 
 ## 🔗 Project Links
